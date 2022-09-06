@@ -7,7 +7,3 @@ def num(n):
 
 n=int(input("enter a number"))
 number=num(n)
-print(number)
-
-
-
