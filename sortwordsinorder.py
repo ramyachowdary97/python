@@ -3,6 +3,3 @@ words = my_str.split()
 words.sort()
 print("The sorted words are:")
 print(words)
-
-
-
